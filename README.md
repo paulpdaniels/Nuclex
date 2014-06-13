@@ -1,4 +1,4 @@
 Nuclex
 ======
 
-Mirror of the Nuclex Framework
+Mirror of the fantastic [Nuclex Framework](https://nuclexframework.codeplex.com/)
